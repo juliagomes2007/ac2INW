@@ -1,6 +1,8 @@
+import styles from './Geral.module.css'
+
 function Topo(){
     return(
-        <div>
+        <div className={styles.banner}>
             <h1>Bem vindo ao nosso site com React!</h1>
         </div>
     )

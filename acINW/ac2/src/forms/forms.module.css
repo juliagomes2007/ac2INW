@@ -1,0 +1,30 @@
+.local{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-bottom: 60px;
+}
+
+.componente{
+    margin: 10px;
+}
+
+.botao {
+    background-color: #3c3c3c; 
+    color: white; 
+    padding: 15px 25px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 8px; 
+    border: none; 
+    transition: background-color 0.3s;
+  }
+
+  /* Mudança de cor ao passar o mouse */
+  .botao:hover {
+    background-color: #141414;
+  }

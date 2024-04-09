@@ -1,0 +1,16 @@
+.banner{
+    background-color: #f0f0f0;
+    padding: 50px;
+    text-align: center;
+}
+
+.outros{
+    padding: 30px;
+}
+
+.footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
