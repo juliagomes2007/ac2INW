@@ -24,7 +24,6 @@
     transition: background-color 0.3s;
   }
 
-  /* Mudança de cor ao passar o mouse */
   .botao:hover {
     background-color: #141414;
   }
